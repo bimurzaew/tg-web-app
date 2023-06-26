@@ -1,0 +1,15 @@
+.wrapper {
+}
+
+.table {
+    border-collapse: collapse;
+}
+
+.table tbody tr {
+    border-bottom: 1px solid grey;
+}
+
+.button {
+    margin-top: 15px;
+    text-align: center;
+}
